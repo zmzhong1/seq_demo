@@ -1,1 +1,1 @@
-# seq_demo
+# seq-demo
